@@ -1,0 +1,15 @@
+.vscode
+.git
+.gitattributes
+.npmrc
+.eslintignore
+.eslintrc.cjs
+.prettierrc
+.pretieriignore
+.svelte-kit
+
+node_modules
+README.md
+Dockerfile
+db/*.db
+build
