@@ -1,0 +1,34 @@
+._rendered-markdown h1 {
+  font-size: 2rem;
+}
+
+._rendered-markdown h2 {
+  font-size: 1.5rem;
+}
+
+._rendered-markdown h3 {
+  font-size: 1.5rem;
+}
+
+._rendered-markdown ul {
+  list-style-type: circle;
+  list-style-position: inside;
+}
+
+._rendered-markdown ol {
+  list-style-type: decimal;
+  list-style-position: inside;
+}
+
+._rendered-markdown p {
+  margin: 0;
+  padding: 0;
+}
+
+._rendered-markdown a {
+  color: #eb4f27;
+}
+
+._rendered-markdown strong {
+  font-weight: 800;
+}
